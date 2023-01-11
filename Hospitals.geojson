@@ -1,1 +1,215 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[113.086071,3.233178]},"properties":{"color":"#118DFF","title":"Bintulu"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[101.528788,2.99711]},"properties":{"color":"#12239E","title":"Bukit Rimau"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[101.762945,3.031525]},"properties":{"color":"#E66C37","title":"Cheras"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[101.68764,3.0596]},"properties":{"color":"#666666","title":"IMU"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[103.637287,1.478588]},"properties":{"color":"#6B007B","title":"Iskandar Puteri"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[101.446308,3.085948]},"properties":{"color":"#E044A7","title":"Klang"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[114.001899,4.411395]},"properties":{"color":"#744EC2","title":"Miri"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[101.637414,3.118292]},"properties":{"color":"#D9B300","title":"Petaling"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[101.622442,3.024003]},"properties":{"color":"#D64550","title":"Puchong"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[101.917513,2.710492]},"properties":{"color":"#197278","title":"Seremban"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[101.718194,3.201292]},"properties":{"color":"#1AAB40","title":"Setapak"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[101.505176,3.047086]},"properties":{"color":"#15C6F4","title":"Shah Alam"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[100.734351,4.865617]},"properties":{"color":"#4092FF","title":"Taiping"}},{"type":"Feature","properties":{"color":"#FFA058","title":"Tebrau"},"geometry":{"type":"Point","coordinates":[103.765789,1.499985]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.086071,
+          3.233178
+        ]
+      },
+      "properties": {
+        "color": "#118DFF",
+        "title": "Bintulu",
+        "hexid": "BINT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.528788,
+          2.99711
+        ]
+      },
+      "properties": {
+        "color": "#12239E",
+        "title": "Bukit Rimau",
+        "hexid": "BRIM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.762945,
+          3.031525
+        ]
+      },
+      "properties": {
+        "color": "#E66C37",
+        "title": "Cheras",
+        "hexid": "CHRS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.68764,
+          3.0596
+        ]
+      },
+      "properties": {
+        "color": "#666666",
+        "title": "IMU",
+        "hexid": "IMU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.637287,
+          1.478588
+        ]
+      },
+      "properties": {
+        "color": "#6B007B",
+        "title": "Iskandar Puteri",
+        "hexid": "NUSA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.446308,
+          3.085948
+        ]
+      },
+      "properties": {
+        "color": "#E044A7",
+        "title": "Klang",
+        "hexid": "KLAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.001899,
+          4.411395
+        ]
+      },
+      "properties": {
+        "color": "#744EC2",
+        "title": "Miri",
+        "hexid": "MIRI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.637414,
+          3.118292
+        ]
+      },
+      "properties": {
+        "color": "#D9B300",
+        "title": "Petaling",
+        "hexid": "PJAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.622442,
+          3.024003
+        ]
+      },
+      "properties": {
+        "color": "#D64550",
+        "title": "Puchong",
+        "hexid": "PUCH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.917513,
+          2.710492
+        ]
+      },
+      "properties": {
+        "color": "#197278",
+        "title": "Seremban",
+        "hexid": "SRBN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.718194,
+          3.201292
+        ]
+      },
+      "properties": {
+        "color": "#1AAB40",
+        "title": "Setapak",
+        "hexid": "SETA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.505176,
+          3.047086
+        ]
+      },
+      "properties": {
+        "color": "#15C6F4",
+        "title": "Shah Alam",
+        "hexid": "ECSA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.734351,
+          4.865617
+        ]
+      },
+      "properties": {
+        "color": "#4092FF",
+        "title": "Taiping",
+        "hexid": "TAIP"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "#FFA058",
+        "title": "Tebrau",
+        "hexid": "TEBR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.765789,
+          1.499985
+        ]
+      }
+    }
+  ]
+}
